@@ -1,3 +1,3 @@
-https://github.com/michalc/asyncio-buffered-pipeline/archive/v0.0.8.zip
+https://github.com/pyrogram/pyrogram/archive/master.zip
 tgcrypto
 aria2p
